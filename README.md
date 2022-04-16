@@ -31,10 +31,6 @@ Get it from Github at [Garcila](https://github.com/Garcila/painters_mongo) and m
 - [Mongo](https://www.mongodb.com/) - MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need
 - [Mongoose](https://mongoosejs.com/) - elegant mongodb object modeling for node.js
 
-## Images By
-
-- **Absurd Design** - [Absurd Design site](https://garcila.github.io/)
-
 ## Author
 
 - **German Arcila** - _Initial work_ - [Filling the Bucket](https://garcila.github.io/)
