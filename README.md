@@ -22,7 +22,7 @@ CRUD implementation using Mongo and Mongoose
 
 ## Clone and tinker
 
-Get it from Github at [Garcila](https://github.com/Garcila/painters_mongo) and make it yours.
+Get it from Github at [Garcila](git@github.com:Garcila/painters_mongo.git) and make it yours.
 
 ## Built With
 
